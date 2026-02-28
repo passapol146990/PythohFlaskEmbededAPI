@@ -3,7 +3,7 @@ python api werser generate text to embeded 768 array
 
 # Run now 
 ```
-docker run -p 5000:5000 --name embed passapol/pythonflaskembeded-api:v1
+docker run -d -p 5000:5000 --name embed passapol/pythonflaskembeded-api:v1
 ```
 
 # Build Docker
